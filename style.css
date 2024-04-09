@@ -217,9 +217,11 @@ input::placeholder{
     height: 300px;
     padding: 10px;
   align-items: center;
-    position: relative;
+    
     border-radius: 10px;
     flex-direction: column;
+    position: absolute;
+    top: 10%;
  }
 
  .formed{
